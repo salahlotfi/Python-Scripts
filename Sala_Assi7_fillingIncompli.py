@@ -1,3 +1,4 @@
+# This Python script is supposed to make a dictionary and process that. 
 # An incomplete program for an "infinite" interactive loop to process a dictionary.
 
 def main():
