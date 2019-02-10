@@ -1,5 +1,5 @@
-# This script is writtent to process the SEER databse. Using different age groups between men and women,
-# this script can provide frequency distribution of various cancer diagnosis given the years data collected.
+#This script is written to process the SEER database. Using different age groups between men and women,
+#This script can provide frequency distribution of various cancer diagnoses given the years data is collected.
 
 import glob
 
